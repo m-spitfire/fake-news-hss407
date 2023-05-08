@@ -1,5 +1,7 @@
 # HSS407 -- Analysis of Fake news using Topic modeling
 
+[See our paper](./paper/HSS407_Final_Paper___Team_9-2.pdf)
+
 ## Prerequisites
 
 * Python
