@@ -1,0 +1,9 @@
+matplotlib
+seaborn
+gensim
+numpy
+tqdm
+nltk
+spacy
+pandas
+wordcloud
